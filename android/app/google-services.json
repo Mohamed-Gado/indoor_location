@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236118574266",
+    "project_id": "indoorlocation-b7778",
+    "storage_bucket": "indoorlocation-b7778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236118574266:android:e4df8e0b681c71342fae83",
+        "android_client_info": {
+          "package_name": "com.example.indoor_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236118574266-fpjn7hgsho4rr5kd47393favkq3367lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1HgEcGBSqCGT-fdHwXBnfCAKZbQgjibY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236118574266-fpjn7hgsho4rr5kd47393favkq3367lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
